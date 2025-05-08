@@ -1,7 +1,5 @@
 
-# ============================
-# 💾 RDS MySQL Setup (Private)
-# ============================
+
 
 # DB Subnet Group
 resource "aws_db_subnet_group" "rds" {
