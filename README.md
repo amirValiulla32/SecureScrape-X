@@ -4,6 +4,8 @@ SecureScrape-X is a DevSecOps infrastructure-as-code (IaC) project built using A
 
 ---
 
+[Commercial Use Terms](COMMERCIAL_LICENSE.md)
+
 ##  Architecture Diagram (Mermaid.js)
 
 ```mermaid
