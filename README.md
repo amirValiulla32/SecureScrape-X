@@ -1,10 +1,8 @@
 # SecureScrape-X
 
 SecureScrape-X is a DevSecOps infrastructure-as-code (IaC) project built using AWS and Terraform. It automates the detection and response to potential threats against EC2 instances using GuardDuty, EventBridge, Lambda, and supporting AWS services. Designed for resilience, scalability, and blue-team automation, this project forms the backbone of a real-time cloud-native threat mitigation system.
-
+>  [Commercial Use Terms](COMMERCIAL_LICENSE.md)
 ---
-
-[Commercial Use Terms](COMMERCIAL_LICENSE.md)
 
 ##  Architecture Diagram (Mermaid.js)
 
